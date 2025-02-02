@@ -1,0 +1,52 @@
+[
+  {
+    "image" : "raccoon_1.JPG",
+    "confidence" : 0.864305548921311,
+    "classification" : "0.NoRaccoon"
+  },
+  {
+    "image" : "no_raccoon_1.JPG",
+    "classification" : "0.NoRaccoon",
+    "confidence" : 0.9947012112612951
+  },
+  {
+    "confidence" : 0.8991900019391177,
+    "classification" : "0.NoRaccoon",
+    "image" : "no_raccoon_3.JPG"
+  },
+  {
+    "classification" : "0.NoRaccoon",
+    "confidence" : 0.733338865653179,
+    "image" : "raccoon_2.JPG"
+  },
+  {
+    "image" : "raccoon_3.JPG",
+    "classification" : "1.Raccoon",
+    "confidence" : 0.8925139438567277
+  },
+  {
+    "classification" : "0.NoRaccoon",
+    "confidence" : 0.9999458595161459,
+    "image" : "no_raccoon_2.JPG"
+  },
+  {
+    "confidence" : 0.9998624460926863,
+    "image" : "no_raccoon_5.JPG",
+    "classification" : "0.NoRaccoon"
+  },
+  {
+    "classification" : "1.Raccoon",
+    "confidence" : 0.921520306519786,
+    "image" : "raccoon_4.JPG"
+  },
+  {
+    "confidence" : 0.9566128769421168,
+    "classification" : "1.Raccoon",
+    "image" : "raccoon_5.JPG"
+  },
+  {
+    "confidence" : 0.9729243242856032,
+    "classification" : "0.NoRaccoon",
+    "image" : "no_raccoon_4.JPG"
+  }
+]
